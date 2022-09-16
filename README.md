@@ -5,7 +5,7 @@
 Projeto contruído do evento Next Level Week da Rocketseat.
 
 
-[🔗Clique aqui para acessar] (https://gabrielvictorino8266.github.io/nlw/)
+[🔗Clique aqui para acessar](https://gabrielvictorino8266.github.io/nlw/)
 
 ## 🛠 Tecnologias
 
